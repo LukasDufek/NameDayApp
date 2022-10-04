@@ -1,0 +1,14 @@
+C:\Users\Lukáš\Documents\C#\svatek\svatek\bin\Debug\svatek.exe.config
+C:\Users\Lukáš\Documents\C#\svatek\svatek\bin\Debug\svatek.exe
+C:\Users\Lukáš\Documents\C#\svatek\svatek\bin\Debug\svatek.pdb
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.csprojAssemblyReference.cache
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.Form1.resources
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.Properties.Resources.resources
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.csproj.GenerateResource.cache
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.csproj.CoreCompileInputs.cache
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.exe
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.pdb
+C:\Users\Lukáš\Documents\C#\svatek\svatek\bin\Debug\svatek.exe.manifest
+C:\Users\Lukáš\Documents\C#\svatek\svatek\bin\Debug\svatek.application
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.exe.manifest
+C:\Users\Lukáš\Documents\C#\svatek\svatek\obj\Debug\svatek.application
